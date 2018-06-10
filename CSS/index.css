@@ -165,6 +165,14 @@ body {
   display: flex;
   justify-content: center;
 }
+.service-statement h1 {
+  font-size: 4rem;
+  color: tan;
+}
+.service-statement p {
+  font-size: 2.4rem;
+  color: white;
+}
 .contact-header {
   color: tan;
 }
